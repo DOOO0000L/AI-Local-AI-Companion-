@@ -1,0 +1,5 @@
+# AI智能伴侣 依赖清单
+# 一键安装.bat 会自动安装; 也可手动: pip install -r requirements.txt
+# 注: llama-cpp-python 需用 CUDA 版 wheel(见一键安装.bat), 不在本清单里
+streamlit>=1.50
+numpy>=1.24
